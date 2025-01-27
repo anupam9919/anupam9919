@@ -1,10 +1,40 @@
-- 👋 Hi, I’m Anupam @anupam9919
-- 👀 I’m interested in Web Development & Data Science
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ... Data Science
-- 📫 To reach me ...    https://linktr.ee/anupamsingh_
+# 👋 Hello, I'm Anupam Singh
 
-<!---
-anupam9919/anupam9919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full Stack .NET Developer | DevOps Enthusiast
+
+### About Me
+🚀 Passionate Full Stack Developer specializing in .NET technologies with a strong foundation in clean architecture principles and growing interest in DevOps practices.
+
+### What I Do
+💻 Currently working as a Software Developer, focusing on:
+- ASP.NET Core MVC development
+- Clean Architecture implementation
+- Full stack web solutions
+- Learning DevOps tools and practices
+
+### Tech Stack
+⚡ Working with:
+- ASP.NET Core & .NET Framework
+- Clean Architecture
+- MVC Pattern
+- SQL Server
+- REST APIs
+- Angular/JavaScript
+- Azure DevOps
+
+### Future Focus
+🎯 Transitioning towards:
+- Cloud Infrastructure
+- CI/CD Pipelines
+- Container Orchestration
+- Infrastructure as Code
+- DevOps Best Practices
+
+### Looking For
+🤝 Open to collaborate on ASP.NET Core projects and DevOps initiatives
+
+### Let's Connect!
+📫 Reach out to me: [My Links](https://linktr.ee/anupamsingh_)
+
+---
+*Building robust applications, embracing DevOps culture* ✨
