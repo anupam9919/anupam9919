@@ -43,5 +43,6 @@
 ### Let's Connect!
 📫 Reach out to me: [My Links](https://linktr.ee/anupamsingh_)
 
+[![](https://visitcount.itsvg.in/api?id=anupam9919&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 *Building robust applications, embracing DevOps culture* ✨
