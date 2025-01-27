@@ -22,9 +22,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anupam9919&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats-eta.vercel.app/?user=anupam9919&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam9919&count_private=true&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anupam9919&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&layout=compact&theme=radical)
 
 ### Future Focus
 🎯 Transitioning towards:
