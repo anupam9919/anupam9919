@@ -1,47 +1,109 @@
-# 👋 Hello, I'm Anupam Singh
+# 👋 Anupam Singh  
 
-## Full Stack .NET Developer | DevOps Enthusiast
+## Software Engineer | Backend-Focused Java Developer | Full Stack Capable | Cloud & DevOps Enthusiast  
 
-### About Me
-🚀 Passionate Full Stack Developer specializing in .NET technologies with a strong foundation in clean architecture principles and growing interest in DevOps practices.
-
-### What I Do
-💻 Currently working as a Software Developer, focusing on:
-- ASP.NET Core MVC development
-- Clean Architecture implementation
-- Full stack web solutions
-- Learning DevOps tools and practices
-
-### Tech Stack
-⚡ Working with:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam9919&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&layout=compact&theme=radical)
-
-### Future Focus
-🎯 Transitioning towards:
-- Cloud Infrastructure
-- CI/CD Pipelines
-- Container Orchestration
-- Infrastructure as Code
-- DevOps Best Practices
-
-### Looking For
-🤝 Open to collaborate on ASP.NET Core projects and DevOps initiatives
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Let's Connect!
-📫 Reach out to me: [My Links](https://linktr.ee/anupamsingh_)
-
-[![](https://visitcount.itsvg.in/api?id=anupam9919&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
-*Building robust applications, embracing DevOps culture* ✨
+
+## 🚀 About Me  
+
+Backend-focused Software Engineer building scalable, secure, and production-ready systems using **Java and Spring Boot**.
+
+I specialize in designing clean architectures, building RESTful APIs, implementing secure authentication systems, and optimizing database performance. Alongside backend engineering, I am comfortable delivering end-to-end features and deploying containerized applications.
+
+Currently preparing for **SDE-1 roles across product companies and high-growth startups**, with strong emphasis on system design, performance, and engineering fundamentals.
+
+---
+
+## 🔥 Featured Projects  
+
+### 🏦 Banking Microservices Platform  
+🔗 [View Repository](https://github.com/your-repo-link)
+**Tech:** Java, Spring Boot, Spring Security, JWT, MySQL, Docker  
+
+- Designed and developed REST APIs for account management, transfers, and transaction history  
+- Implemented JWT-based authentication and role-based access control  
+- Optimized SQL queries and indexing to improve response time  
+- Dockerized services for consistent development and deployment  
+- Structured using Clean Architecture principles  
+
+**What it demonstrates:** Backend design, security, API structuring, production readiness  
+
+---
+
+## 🛠 Core Technical Expertise  
+
+### Backend Engineering
+- Java (8+)  
+- Spring Boot  
+- Spring Security (JWT authentication)  
+- Hibernate / JPA  
+- REST API design  
+- Clean Architecture & SOLID principles  
+- Exception handling & logging  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+- Query optimization & indexing  
+- Transaction management  
+
+### Frontend (Feature Delivery)
+- React  
+- JavaScript (ES6+)  
+- HTML5 / CSS3  
+
+### DevOps & Cloud
+- Docker  
+- Git & GitHub  
+- GitHub Actions  
+- AWS (core services)  
+- Linux basics  
+
+---
+
+## 📈 Engineering Focus  
+
+✔ Writing maintainable, production-grade code  
+✔ Designing scalable backend services  
+✔ Improving API performance and reliability  
+✔ Secure authentication & authorization flows  
+✔ Understanding system design trade-offs  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam9919&count_private=true&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&layout=compact)  
+
+---
+
+## 🎯 2026 Goals  
+
+- Strengthening Data Structures & Algorithms  
+- Building production-grade Spring Boot microservices  
+- Implementing complete CI/CD pipelines  
+- Deepening distributed systems understanding  
+
+---
+
+## 🤝 Open To  
+
+- Backend / SDE-1 opportunities  
+- Startup engineering roles  
+- High-impact Java & Spring Boot projects  
+- Open-source collaboration  
+
+---
+
+## 📫 Connect  
+
+🔗 https://linktr.ee/anupamsingh_  
+
+---
+
+### ⚡ Engineering Mindset  
+
+> Focus on fundamentals.  
+> Build scalable systems.  
+> Ship fast. Iterate smarter.
