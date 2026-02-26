@@ -1,67 +1,65 @@
 # 👋 Anupam Singh  
 
-## Software Engineer | Backend-Focused Java Developer | Full Stack Capable | Cloud & DevOps Enthusiast  
+## Backend-Focused Software Engineer | Java & Spring Boot | Full Stack Capable | Cloud & DevOps Oriented  
 
 ---
 
-## 🚀 About Me  
+## 🚀 Building Scalable Backend Systems
 
-Backend-focused Software Engineer building scalable, secure, and production-ready systems using **Java and Spring Boot**.
+Backend-focused engineer specializing in **Java and Spring Boot**, designing secure, scalable, and production-ready systems.
 
-I specialize in designing clean architectures, building RESTful APIs, implementing secure authentication systems, and optimizing database performance. Alongside backend engineering, I am comfortable delivering end-to-end features and deploying containerized applications.
+Strong foundation in:
+- Data Structures & Algorithms  
+- Object-Oriented Design  
+- Clean Architecture & SOLID principles  
+- RESTful API design  
+- Database optimization  
 
-Currently preparing for **SDE-1 roles across product companies and high-growth startups**, with strong emphasis on system design, performance, and engineering fundamentals.
+Comfortable delivering **end-to-end features** across backend and frontend, with growing expertise in **Docker, CI/CD, and Cloud infrastructure**.
 
 ---
 
-## 🔥 Featured Projects  
+# 🔥 Featured Projects  
 
-### 🏦 Banking Microservices Platform  
-🔗 [View Repository](https://github.com/your-repo-link)
+### 🏦 Banking Microservices Platform  🔗 [View Repository](https://github.com/your-repo-link) 
 **Tech:** Java, Spring Boot, Spring Security, JWT, MySQL, Docker  
 
-- Designed and developed REST APIs for account management, transfers, and transaction history  
+- Designed REST APIs for account management and transaction processing  
 - Implemented JWT-based authentication and role-based access control  
-- Optimized SQL queries and indexing to improve response time  
-- Dockerized services for consistent development and deployment  
+- Optimized database queries and indexing for improved response time  
+- Dockerized services for consistent deployment  
 - Structured using Clean Architecture principles  
 
-**What it demonstrates:** Backend design, security, API structuring, production readiness  
+**Demonstrates:** Backend design, security, scalability, production readiness  
 
 ---
 
-## 🛠 Core Technical Expertise  
+# 🛠 Tech Stack  
 
-### Backend Engineering
-- Java (8+)  
-- Spring Boot  
-- Spring Security (JWT authentication)  
-- Hibernate / JPA  
-- REST API design  
-- Clean Architecture & SOLID principles  
-- Exception handling & logging  
+### 🚀 Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Databases
-- MySQL  
-- PostgreSQL  
-- Query optimization & indexing  
-- Transaction management  
+### 🗄 Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend (Feature Delivery)
-- React  
-- JavaScript (ES6+)  
-- HTML5 / CSS3  
+### 🌐 Frontend  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps & Cloud
-- Docker  
-- Git & GitHub  
-- GitHub Actions  
-- AWS (core services)  
-- Linux basics  
+### ⚙ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 Engineering Focus  
+# 📈 Engineering Focus  
 
 ✔ Writing maintainable, production-grade code  
 ✔ Designing scalable backend services  
@@ -71,28 +69,28 @@ Currently preparing for **SDE-1 roles across product companies and high-growth s
 
 ---
 
-## 📊 GitHub Stats  
+# 🎯 2026 Goals  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam9919&count_private=true&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&layout=compact)  
-
----
-
-## 🎯 2026 Goals  
-
-- Strengthening Data Structures & Algorithms  
+- Strengthening DSA and problem-solving consistency  
 - Building production-grade Spring Boot microservices  
 - Implementing complete CI/CD pipelines  
 - Deepening distributed systems understanding  
 
 ---
 
+# 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam9919&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam9919&layout=compact&theme=radical)
+
+---
+
 ## 🤝 Open To  
 
-- Backend / SDE-1 opportunities  
-- Startup engineering roles  
-- High-impact Java & Spring Boot projects  
-- Open-source collaboration  
+Backend / SDE-1 opportunities  
+Startup engineering roles  
+High-impact Java & Spring Boot projects  
+Open-source collaboration  
 
 ---
 
