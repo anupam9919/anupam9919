@@ -69,12 +69,11 @@ Comfortable delivering **end-to-end features** across backend and frontend, with
 
 ---
 
-# 🎯 2026 Goals  
+## 📌 Currently Working On
 
-- Strengthening DSA and problem-solving consistency  
-- Building production-grade Spring Boot microservices  
-- Implementing complete CI/CD pipelines  
-- Deepening distributed systems understanding  
+- Consistent DSA practice
+- Improving API performance optimization techniques
+- Learning distributed systems fundamentals
 
 ---
 
