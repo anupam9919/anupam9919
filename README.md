@@ -96,7 +96,11 @@ Open-source collaboration
 
 ## 📫 Connect  
 
-🔗 https://linktr.ee/anupamsingh_  
+🔗 LinkedIn: https://www.linkedin.com/in/anupam-singh99/  
+📧 Email: anupamsingh9473@gmail.com  
+📄 Resume: https://drive.google.com/file/d/1VupUbcAYUcqrRykYwvAUyxSgcRxCYBUv/view?usp=sharing  
+🧠 LeetCode: https://leetcode.com/u/Anupam9919/  
+💻 HackerRank: https://www.hackerrank.com/profile/Anupam9919  
 
 ---
 
