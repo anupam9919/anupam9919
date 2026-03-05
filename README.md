@@ -1,13 +1,17 @@
 # 👋 Anupam Singh  
 
 ## Backend-Focused Software Engineer | Java & Spring Boot | Full Stack Capable | Cloud & DevOps Oriented  
+
 ---
+
 <div align="center">
   <a href="https://devanupam.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1A56DB?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
 ---
+
 ## 🚀 Building Scalable Backend Systems
 
 Backend-focused engineer specializing in **Java and Spring Boot**, designing secure, scalable, and production-ready systems.
