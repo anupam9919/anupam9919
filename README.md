@@ -3,6 +3,12 @@
 ## Backend-Focused Software Engineer | Java & Spring Boot | Full Stack Capable | Cloud & DevOps Oriented  
 
 ---
+<div align="center">
+  <a href="https://devanupam.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1A56DB?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+---
 
 ## 🚀 Building Scalable Backend Systems
 
@@ -96,6 +102,7 @@ Open-source collaboration
 ## 📫 Connect  
 
 🔗 LinkedIn: https://www.linkedin.com/in/anupam-singh99/  
+🌐 Portfolio: https://devanupam.vercel.app  
 📧 Email: anupamsingh9473@gmail.com  
 📄 Resume: https://drive.google.com/file/d/1VupUbcAYUcqrRykYwvAUyxSgcRxCYBUv/view?usp=sharing  
 <!-- 🧠 LeetCode: https://leetcode.com/u/Anupam9919/  
